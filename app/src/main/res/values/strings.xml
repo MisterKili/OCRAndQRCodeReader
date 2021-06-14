@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCRAndQRCodeReader</string>
+    <string name="text_recognition">Text recognition</string>
+    <string name="qr_code_scanner">QR code scanner</string>
+</resources>
